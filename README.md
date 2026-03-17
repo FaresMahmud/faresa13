@@ -4,17 +4,22 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 🎓 Estudante de **Sistemas de Informação**  
-💡 Focado em construir uma base sólida em lógica, estrutura de dados e backend  
-🚀 Evoluindo diariamente como desenvolvedor  
-📚 Atualmente estudando Java, Banco de Dados e Arquitetura de Software  
-🎯 Objetivo: me tornar um desenvolvedor completo e preparado para grandes projetos  
+
+💡 Buscando construir uma base sólida em:
+- Lógica de programação
+- Estruturas de dados
+- Desenvolvimento backend
+
+🚀 Atualmente focado em aprender e evoluir em **Java, Banco de Dados e Arquitetura de Software**
+
+🎯 Objetivo: me tornar um desenvolvedor backend sólido e trabalhar em projetos grandes no futuro.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -24,9 +29,19 @@
 
 ---
 
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faresa13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresa13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
 
-## 🔥 Consistência
+# 🔥 Consistência
 
 <div align="center">
 
@@ -36,32 +51,35 @@
 
 ---
 
-## 🐍 Contribuições animadas
+# 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/faresa13/faresa13/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faresa13&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Em evolução
+# 🚀 Em evolução
 
-- 📚 Aprofundando conhecimentos em Java e Estruturas de Dados  
-- 🧠 Melhorando raciocínio lógico diariamente  
-- 🛠️ Desenvolvendo projetos próprios para consolidar aprendizado  
-- 🎯 Construindo base forte para atuar como desenvolvedor Backend  
+- 📚 Aprofundando conhecimentos em **Java e Estruturas de Dados**
+- 🧠 Melhorando raciocínio lógico diariamente
+- 🛠️ Criando projetos próprios para praticar programação
+- 🎯 Construindo base sólida para atuar como **desenvolvedor backend**
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-📎 LinkedIn: https://www.linkedin.com/in/fares-mahmud-412693376/  
-💻 GitHub: https://github.com/faresa13  
+💼 LinkedIn  
+https://www.linkedin.com/in/fares-mahmud-412693376/
+
+💻 GitHub  
+https://github.com/faresa13
 
 ---
 
 <h3 align="center">
-  "Disciplina supera motivação."
+  Disciplina supera motivação.
 </h3>
