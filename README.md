@@ -1,85 +1,71 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+Fares+👋;Estudante+de+Sistemas+de+Informação;Backend+Developer+em+formação;Java+|+SQL+|+Node.js;Construindo+consistência+todos+os+dias+🚀" />
-</h1>
+# 👋 Opa, eu sou o Fares
+
+🎓 Estudante de Sistemas de Informação
+💻 Interessado em desenvolvimento backend
+🚀 Buscando evoluir na programação e entrar na área
 
 ---
 
-# 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação**  
+Atualmente estou cursando Sistemas de Informação e focado em melhorar minha base em programação.
 
-💡 Buscando construir uma base sólida em:
-- Lógica de programação
-- Estruturas de dados
-- Desenvolvimento backend
-
-🚀 Atualmente focado em aprender e evoluir em **Java, Banco de Dados e Arquitetura de Software**
-
-🎯 Objetivo: me tornar um desenvolvedor backend sólido e trabalhar em projetos grandes no futuro.
+No começo tive bastante dificuldade com lógica, então hoje estou voltando no básico e reforçando bem os fundamentos. Tenho estudado principalmente Java e Programação Orientada a Objetos, tentando entender de verdade como as coisas funcionam (e não só copiar código).
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,nodejs,python,mysql,git,github,vscode" />
-
-</div>
-
----
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faresa13&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresa13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+* Java
+* Python
+* MySQL
+* HTML / CSS
+* Git e GitHub
 
 ---
 
-# 🔥 Consistência
+## 📚 O que estou estudando agora
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=faresa13&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
-
-</div>
-
----
-
-# 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faresa13&theme=tokyo-night&hide_border=true"/>
-
-</div>
+* Programação Orientada a Objetos (herança, polimorfismo, etc.)
+* Estruturas de Dados
+* Engenharia de Software
+* Lógica de Programação
 
 ---
 
-# 🚀 Em evolução
+## 📂 Projetos em destaque
 
-- 📚 Aprofundando conhecimentos em **Java e Estruturas de Dados**
-- 🧠 Melhorando raciocínio lógico diariamente
-- 🛠️ Criando projetos próprios para praticar programação
-- 🎯 Construindo base sólida para atuar como **desenvolvedor backend**
+(Estou organizando e melhorando meus projetos para deixar aqui os principais)
 
----
-
-# 📫 Contato
-
-💼 LinkedIn  
-https://www.linkedin.com/in/fares-mahmud-412693376/
-
-💻 GitHub  
-https://github.com/faresa13
+* 🔹 Sistema em Java com conceitos de POO
+* 🔹 Exercícios práticos da faculdade
+* 🔹 Modelagem de banco de dados (MySQL)
 
 ---
 
-<h3 align="center">
-  Disciplina supera motivação.
-</h3>
+## 📈 Minha atividade
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faresa13\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresa13\&layout=compact)
+
+---
+
+## 🎯 Objetivos
+
+* Conseguir minha primeira oportunidade como dev
+* Melhorar minha lógica de programação
+* Evoluir para backend e futuramente full stack
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (coloca aqui)
+* Email: (opcional)
+
+---
+
+## 💬
+
+Ainda estou no início, mas levando isso a sério e tentando evoluir todos os dias.
