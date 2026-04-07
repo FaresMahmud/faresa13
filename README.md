@@ -43,14 +43,6 @@ No começo tive bastante dificuldade com lógica, então hoje estou voltando no 
 
 ---
 
-## 📈 Minha atividade
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faresa13\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresa13\&layout=compact)
-
----
-
 ## 🎯 Objetivos
 
 * Conseguir minha primeira oportunidade como dev
@@ -61,8 +53,7 @@ No começo tive bastante dificuldade com lógica, então hoje estou voltando no 
 
 ## 📫 Contato
 
-* LinkedIn: (coloca aqui)
-* Email: (opcional)
+* LinkedIn: www.linkedin.com/in/fares-mahmud-412693376
 
 ---
 
