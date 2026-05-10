@@ -1,62 +1,59 @@
 # 👋 Opa, eu sou o Fares
 
-🎓 Estudante de Sistemas de Informação
-💻 Interessado em desenvolvimento backend
-🚀 Buscando evoluir na programação e entrar na área
+🎓 Estudante de Sistemas de Informação — Universidade Franciscana  
+💻 Foco em desenvolvimento backend com Java e Node.js  
+📍 Santa Maria, RS
 
 ---
 
 ## 🚀 Sobre mim
 
-Atualmente estou cursando Sistemas de Informação e focado em melhorar minha base em programação.
+Estou cursando Sistemas de Informação e construindo minha base em programação de forma sólida.
 
-No começo tive bastante dificuldade com lógica, então hoje estou voltando no básico e reforçando bem os fundamentos. Tenho estudado principalmente Java e Programação Orientada a Objetos, tentando entender de verdade como as coisas funcionam (e não só copiar código).
+Tenho estudado principalmente **Java**, **Spring Boot** e **Programação Orientada a Objetos**, com foco em entender de verdade como as coisas funcionam. Também tenho interesse crescente em **Node.js** para evoluir para full stack.
 
 ---
 
 ## 🛠️ Tecnologias
 
-* Java
-* Python
-* MySQL
-* HTML / CSS
-* Git e GitHub
-
----
-
-## 📚 O que estou estudando agora
-
-* Programação Orientada a Objetos (herança, polimorfismo, etc.)
-* Estruturas de Dados
-* Engenharia de Software
-* Lógica de Programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 📂 Projetos em destaque
 
-(Estou organizando e melhorando meus projetos para deixar aqui os principais)
+### 🔹 [Spring Boot Produto CRUD](https://github.com/FaresMahmud/springboot-produto-crud)
+Aplicação web completa com CRUD de produtos e categorias, usando Spring Boot, Thymeleaf e MySQL. Inclui relacionamentos JPA, validações e carga automática de dados.
 
-* 🔹 Sistema em Java com conceitos de POO
-* 🔹 Exercícios práticos da faculdade
-* 🔹 Modelagem de banco de dados (MySQL)
+`Java` `Spring Boot` `Thymeleaf` `MySQL` `JPA`
+
+---
+
+### 🔹 [Programação Orientada a Objetos](https://github.com/FaresMahmud/Programacao_Orientado_A_Objeto)
+Exercícios práticos de POO em Java: herança, polimorfismo, encapsulamento e interfaces.
+
+`Java` `POO`
 
 ---
 
 ## 🎯 Objetivos
 
-* Conseguir minha primeira oportunidade como dev
-* Melhorar minha lógica de programação
-* Evoluir para backend e futuramente full stack
+- Conseguir minha primeira oportunidade como desenvolvedor
+- Evoluir para backend com Spring Boot e Node.js
+- Construir projetos reais que resolvam problemas reais
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: www.linkedin.com/in/fares-mahmud-412693376
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-mahmud-412693376)
 
 ---
-
-## 💬
 
 Ainda estou no início, mas levando isso a sério e tentando evoluir todos os dias.
